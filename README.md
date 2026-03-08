@@ -42,9 +42,20 @@ Une interface graphique simple vous permet de choisir les optimisations à appli
 # Pour appliquer une/des optimisations
 Faites un **clic droit** sur le fichier `.ps1` → **"Exécuter avec PowerShell"**.  
 Le script demandera automatiquement les droits administrateur. si vous navez pas lautorisation dexcuter des script powershell activer cela via:
+Une fois cela fais, Une inteface graphique s'ouvrira avec des cases à cocher. Voici ce que fait chaque option en clair:
 
-# Optimisations disponibles
-Une fenêtre s'ouvrira avec des cases à cocher. Voici ce que fait chaque option en clair :
+<details>
+  <summary>Click here for an image example of the script (interface GUI)</summary>
+  
+![targetfield]([https://i.imgur.com/o0vQdAr.png](https://imgur.com/G51rfZO))
+
+</details>
+
+
+
+
+
+
 
 | Option | Ce que ça fait |
 |---|---|
