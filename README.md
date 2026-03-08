@@ -29,7 +29,7 @@ Example correct Target field path: <br >
 > [!CAUTION]
 > Be sure to add a space after the quotations and before the dash, as well as between each launch argument as shown in the examples.
 
-# `1` Infos supp
+# Infos supp
 
 > [!IMPORTANT]
 > Whenever a game update comes out you must open the default APB launcher, let it update, then close the launcher, reinstall your desired configs and launch the game from your desktop shortcut. Do NOT create new APB shortcuts every time there is an update, it is unnecessary. Creating a shortcut of APB.exe is a single-time thing, you DON'T need to re-do it for updates/patches.
