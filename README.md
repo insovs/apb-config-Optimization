@@ -1,4 +1,4 @@
-# `insopti APB Reloaded Config + Windows Optimizations`
+# `insopti APB Config + Windows Optimizations`
 
 # Installation
 Drag and drop the folders into your APB Reloaded main directory and replace everything when prompted to.
