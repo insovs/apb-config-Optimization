@@ -1,7 +1,6 @@
 # inso APB Config + Windows Optimizations
 Cette configuration contient mes propres réglages pour **APB Reloaded**, inspirés de la configuration originale de Flaws. Elle vise à optimiser la performance et la réactivité in-game. un script afin d'optimiser lexecutable d'apb pour Windows vous est fourni si vous souhaitez.
 
-
 # `1` Windows Optimization for APB executable
 Ce script applique des réglages système pour **Valorant** afin d'améliorer les performances, réduire l'input delay et diminuer la latence réseau. Une interface graphique simple vous permet de choisir les optimisations à appliquer. Tout est **sûr**, **efficace** et **entièrement réversible**.
 
