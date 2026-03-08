@@ -1,7 +1,7 @@
 # inso APB Config + Windows Optimization
 This configuration contains my own settings for **APB Reloaded**, inspired by Flaws' original config. It aims to optimize in-game performance and responsiveness. A script to optimize the APB executable for Windows is also provided if you wish to use it.
 
-# `1` Windows Optimization for APB Executable
+## `1` Windows Optimization for APB Executable
 This script applies system tweaks for **APB Reloaded** to improve performance, reduce input delay, and lower network latency.  
 A simple graphical interface lets you choose which optimizations to apply. Everything is **safe**, **effective**, and **fully reversible**.
 
@@ -38,7 +38,7 @@ Once done, a graphical interface will open with checkboxes. Here is what each op
 > To reset everything, simply check **"Remove all optimizations"** and click **Apply**.
 
 
-# `2` Config / Installation
+## `2` Config / Installation
 Drag and drop the folders into your APB Reloaded main directory and replace everything when prompted to.
 
 For example, if you wish to install my graphics open the `Graphics` folder and drag and drop the `APBGame` folder into your own APB Reloaded main directory where your own `APBGame` folder is located but ***NOT inside `APBGame` itself!*** If Windows prompts you to replace files then you're doing it right. If not, check whether you are placing the files in the correct directory.
