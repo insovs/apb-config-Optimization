@@ -47,7 +47,7 @@ Une fois cela fais, Une inteface graphique s'ouvrira avec des cases à cocher. V
 <details>
   <summary>Click here for an image example of the script (interface GUI)</summary>
   
-![targetfield]([https://i.imgur.com/o0vQdAr.png](https://imgur.com/G51rfZO))
+![targetfield](https://i.imgur.com/G51rfZO.png)
 
 </details>
 
