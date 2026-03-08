@@ -1,6 +1,6 @@
 # `inso APB Config + Windows Optimizations`
 
-# Installation
+# `1` Installation
 Drag and drop the folders into your APB Reloaded main directory and replace everything when prompted to.
 
 For example, if you wish to install my graphics open the `Graphics` folder and drag and drop the `APBGame` folder into your own APB Reloaded main directory where your own `APBGame` folder is located but ***NOT inside `APBGame` itself!*** If Windows prompts you to replace files then you're doing it right. If not, check whether you are placing the files in the correct directory.
@@ -31,3 +31,5 @@ Example correct Target field path: <br >
 
 > [!NOTE]
 > In order to revert everything back to vanilla and start over, open the default APB launcher, click Options -> Repair and let it finish. Once that is done you may close the launcher and start over with modding your game.
+
+# `2` Windows Optimization for APB executable
