@@ -1,7 +1,42 @@
 # inso APB Config + Windows Optimizations
 Cette configuration contient mes propres réglages pour **APB Reloaded**, inspirés de la configuration originale de Flaws. Elle vise à optimiser la performance et la réactivité in-game. un script afin d'optimiser lexecutable d'apb pour Windows vous est fourni si vous souhaitez.
 
-# `1` Installation
+
+# `1` Windows Optimization for APB executable (Performance & Latency Optimization Toolkit)
+Ce script applique des réglages système pour **Valorant** afin d'améliorer les performances, réduire l'input delay et diminuer la latence réseau. Une interface graphique simple vous permet de choisir les optimisations à appliquer. Tout est **sûr**, **efficace** et **entièrement réversible**.
+
+# Pour appliquer une/des optimisations
+Faites un **clic droit** sur le fichier `.ps1` → **"Exécuter avec PowerShell"**.  
+Le script demandera automatiquement les droits administrateur. si vous navez pas lautorisation dexcuter des script powershell activer cela via:
+Une fois cela fais, Une inteface graphique s'ouvrira avec des cases à cocher. Voici ce que fait chaque option en clair:
+
+<details>
+  <summary>Click here for an image example of the script (interface GUI)</summary>
+  
+![targetfield](https://i.imgur.com/tjbG35y.png)
+
+</details>
+
+| Option | Ce que ça fait |
+|---|---|
+| **All-in-One** | Applique tout d'un coup *(recommandé)* |
+| **CPU Priority** | Donne plus de ressources à APB pour qu'il tourne mieux |
+| **Network Optimization** | Réduit le ping et stabilise la connexion en jeu |
+| **GPU High Performance** | Configure en haute perfomances la carte pour APB |
+| **RunAsAdmin** | Lance APB en administrateur pour éviter certains problèmes |
+| **Firewall** | Autorise APB dans le pare-feu pour éviter les coupures réseau |
+| **Defender Exclusion** | Empêche l'antivirus Windows de ralentir le jeu en arrière-plan |
+| **Remove all** | Supprime tout et remet Windows comme avant |
+
+> [!IMPORTANT]
+> Si le jeu refuse de se lancer après l'optimisation **RunAsAdmin**, cochez **"Remove all optimizations"** et cliquez Apply pour tout annuler.
+
+> [!NOTE]
+> Pour tout réinitialiser, cochez simplement **"Remove all optimizations"** puis cliquez sur **Apply**.
+
+
+
+# `2` Config / Installation
 Drag and drop the folders into your APB Reloaded main directory and replace everything when prompted to.
 
 For example, if you wish to install my graphics open the `Graphics` folder and drag and drop the `APBGame` folder into your own APB Reloaded main directory where your own `APBGame` folder is located but ***NOT inside `APBGame` itself!*** If Windows prompts you to replace files then you're doing it right. If not, check whether you are placing the files in the correct directory.
@@ -35,37 +70,6 @@ Example correct Target field path: <br >
 > [!NOTE]
 > In order to revert everything back to vanilla and start over, open the default APB launcher, click Options -> Repair and let it finish. Once that is done you may close the launcher and start over with modding your game.
 
-# `2` Windows Optimization for APB executable (Performance & Latency Optimization Toolkit)
-Ce script applique des réglages système pour **Valorant** afin d'améliorer les performances, réduire l'input delay et diminuer la latence réseau. Une interface graphique simple vous permet de choisir les optimisations à appliquer. Tout est **sûr**, **efficace** et **entièrement réversible**.
-
-# Pour appliquer une/des optimisations
-Faites un **clic droit** sur le fichier `.ps1` → **"Exécuter avec PowerShell"**.  
-Le script demandera automatiquement les droits administrateur. si vous navez pas lautorisation dexcuter des script powershell activer cela via:
-Une fois cela fais, Une inteface graphique s'ouvrira avec des cases à cocher. Voici ce que fait chaque option en clair:
-
-<details>
-  <summary>Click here for an image example of the script (interface GUI)</summary>
-  
-![targetfield](https://i.imgur.com/tjbG35y.png)
-
-</details>
-
-| Option | Ce que ça fait |
-|---|---|
-| **All-in-One** | Applique tout d'un coup *(recommandé)* |
-| **CPU Priority** | Donne plus de ressources à APB pour qu'il tourne mieux |
-| **Network Optimization** | Réduit le ping et stabilise la connexion en jeu |
-| **GPU High Performance** | Configure en haute perfomances la carte pour APB |
-| **RunAsAdmin** | Lance APB en administrateur pour éviter certains problèmes |
-| **Firewall** | Autorise APB dans le pare-feu pour éviter les coupures réseau |
-| **Defender Exclusion** | Empêche l'antivirus Windows de ralentir le jeu en arrière-plan |
-| **Remove all** | Supprime tout et remet Windows comme avant |
-
-> [!IMPORTANT]
-> Si le jeu refuse de se lancer après l'optimisation **RunAsAdmin**, cochez **"Remove all optimizations"** et cliquez Apply pour tout annuler.
-
-> [!NOTE]
-> Pour tout réinitialiser, cochez simplement **"Remove all optimizations"** puis cliquez sur **Apply**.
 
 ---
 
