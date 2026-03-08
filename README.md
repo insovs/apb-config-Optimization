@@ -37,8 +37,7 @@ Example correct Target field path: <br >
 > In order to revert everything back to vanilla and start over, open the default APB launcher, click Options -> Repair and let it finish. Once that is done you may close the launcher and start over with modding your game.
 
 # `2` Windows Optimization for APB executable (Performance & Latency Optimization Toolkit)
-Ce script applique des réglages système pour **Valorant** afin d'améliorer les performances, réduire l'input delay et diminuer la latence réseau.  
-Une interface graphique simple vous permet de choisir les optimisations à appliquer. Tout est **sûr**, **efficace** et **entièrement réversible**.
+Ce script applique des réglages système pour **Valorant** afin d'améliorer les performances, réduire l'input delay et diminuer la latence réseau. Une interface graphique simple vous permet de choisir les optimisations à appliquer. Tout est **sûr**, **efficace** et **entièrement réversible**.
 
 # Pour appliquer une/des optimisations
 Faites un **clic droit** sur le fichier `.ps1` → **"Exécuter avec PowerShell"**.  
