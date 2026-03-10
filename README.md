@@ -19,6 +19,11 @@ Once done, a graphical interface will open with checkboxes. Here is what each op
 
 </details>
 
+> [!TIP]
+> Your APB folder is usually found at:
+> * `Drive:\Gamersfirst\APB Reloaded\`
+> * `Drive:\Steam\steamapps\common\APB Reloaded\`
+
 | Option | What it does |
 |---|---|
 | **All-in-One** | Applies everything at once *(recommended)* |
