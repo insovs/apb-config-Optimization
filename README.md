@@ -60,13 +60,13 @@ The only config that requires one additional step is localization because you ne
 Example correct Target field path: <br>
 `"C:\Program Files (x86)\Steam\steamapps\common\APB Reloaded\Binaries\APB.exe" -language=1031 -nomovies -nosplash`
 
+> [!CAUTION]
+> Make sure to add a space after the closing quotation mark and before each dash, as well as between each launch argument, as shown in the examples above.
+
 > [!TIP]
 > Your APB folder is usually found at:
 > * `Drive:\Gamersfirst\APB Reloaded\`
 > * `Drive:\Steam\steamapps\common\APB Reloaded\`
-
-> [!CAUTION]
-> Make sure to add a space after the closing quotation mark and before each dash, as well as between each launch argument, as shown in the examples above.
 
 ## Additional Info
 
