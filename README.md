@@ -76,6 +76,9 @@ Example correct Target field path: <br>
 > [!NOTE]
 > To revert everything back to vanilla and start fresh, open the default APB launcher, click **Options → Repair** and let it finish. Once done, you may close the launcher and start over with modding your game.
 
+> 🧠 **More in Depth**  
+> For more in depth information about anything that is included in this config, I recommend you visiting [this](https://github.com/flawsv/apb) page.
+
 ---
 
 <p align="center">
