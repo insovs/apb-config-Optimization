@@ -2,8 +2,7 @@
 This configuration contains my own settings for **APB Reloaded**, inspired by Flaws' original config. It aims to optimize in-game performance and responsiveness. A script to optimize the APB executable for Windows is also provided if you wish to use it.
 
 ## `1` Windows Optimization for APB Executable
-This script applies system tweaks for **APB Reloaded** to improve performance, reduce input delay, and lower network latency.  
-A simple graphical interface lets you choose which optimizations to apply. Everything is **safe**, **effective**, and **fully reversible**.
+This script applies system tweaks for **APB Reloaded** to improve performance, reduce input delay, and lower network latency. A simple graphical interface lets you choose which optimizations to apply. Everything is **safe**, **effective**, and **fully reversible**.
 
 ## Applying Optimizations
 **Right-click** the `.ps1` file → **"Run with PowerShell"**.  
